@@ -2,6 +2,8 @@
 
 This repository contains two FIJI macros designed to evaluate image focus in microscopy or natural images. The macros are intended to classify regions of interest (ROIs) as **focused** or **unfocused** and provide a global focus status.
 
+For a detailed explanation, tests, etc visit the Image.sc [topic](https://forum.image.sc/t/script-to-list-unsharp-pictures/114841/8?u=j_ramirez) where this macro was generated. 
+
 ---
 
 ## Features
