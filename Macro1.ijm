@@ -1,3 +1,4 @@
+```javascript
 // === USER SETTINGS ===
 roiWidth = 500;
 roiHeight = 500;
@@ -218,3 +219,4 @@ if (unfocusedCount > (success / 2)) {
 } else {
     print("=> GLOBAL STATUS: GLOBALLY FOCUSED");
 }
+```
